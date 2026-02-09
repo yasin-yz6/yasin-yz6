@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**yasin-yz6/yasin-yz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Yasin, a Computer Engineering student with a strong curiosity for how software and hardware actually work under the hood 🧠⚙️
 
-Here are some ideas to get you started:
+I enjoy building things that make sense — especially on the **backend** 🛠️
+During my internships, I worked with **.NET**, **Web API**, and **SQL**, where I learned how real-world systems are designed, broken, and fixed again 🔁
+Clean architecture, readable code, and solving problems step by step matter to me more than flashy shortcuts ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At university, I’ve worked on web-based projects using **PHP**, including a website developed with a **vibe coding approach** — focusing on rapid iteration, experimentation, and learning by building 🌐⚡
+
+I also have a growing interest in **cybersecurity** 🔐
+I’m familiar with basic networking concepts, including **networks**, **protocols**, and **connections**, and I enjoy understanding how systems communicate — and where they can fail 🌍📡
+
+I’m a team-oriented, open-minded, and problem-solving–focused engineering student 🤝
+I actively use AI tools as thinking partners, not shortcuts 🤖
+I’m continuously pushing myself to improve — technically and mentally 📈
+
+Right now, I’m exploring software engineering more deeply while keeping a close eye on hardware architecture, because the best software respects the machine it runs on 💻🔍
+I aim to contribute to technology in ways that are practical, thoughtful, and actually useful 🚀
