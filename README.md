@@ -63,8 +63,8 @@ I'm a dedicated programmer who enjoys tackling complex problems and creating eff
 ## 📫 How to Reach Me
 
 - GitHub: [@yasin-yz6](https://github.com/yasin-yz6)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/yasin-yz6)
-- Email: yasin.dev@example.com
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/yasin-yz6) <!-- Update with your actual LinkedIn profile -->
+- Email: yasin.dev@example.com <!-- Update with your actual email address -->
 
 ## 💡 Fun Facts
 
